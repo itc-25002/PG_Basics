@@ -4,7 +4,7 @@ variable = 1
 
 if variable < 10:
     print("難しいよ−−−")
-elif 10 < variable < 25:
+elif 10 < and variable < 25:
     print("疲れたよ−−−")
 elif variable > 25:
     print("無理だよ−−−")
