@@ -1,0 +1,5 @@
+print(5 == 5 or 5 == 6)
+print(5 == 5 or 6 == 6)
+print(5 == 6 or 6 == 5)
+print(6 == 5 or 5 == 6)
+print(5 == 5 or 5 == 6 or 5 == 7)
