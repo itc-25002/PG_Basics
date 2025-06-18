@@ -1,0 +1,8 @@
+print(1000 > 100)
+print(1000 < 100)
+print(4 >= 4)
+print(4 <= 4)
+print(4 == 4)
+print(1 == 4)
+print(1 != 4)
+print(4 != 4)

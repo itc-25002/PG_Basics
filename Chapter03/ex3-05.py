@@ -1,0 +1,6 @@
+print("こんにちは、世界")
+print('おはよう、世界')
+print(3.3 + 3.3)
+print(True)
+print(False)
+print(None)
