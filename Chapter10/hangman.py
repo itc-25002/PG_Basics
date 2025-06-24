@@ -5,8 +5,8 @@ def hangman(word):
              "|               ",
              "|        |      ",
              "|        0      ",
-             "|       /|\     ",
-             "|       / \     ",
+             "|       /|\\     ",
+             "|       / \\     ",
              "|               "
              ]
     rletters = list(word)
